@@ -17,3 +17,4 @@ Clique no botão "Calcular" para ver o resultado.
 Para realizar um novo cálculo, basta inserir novos valores.
 Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests para melhorias e novas funcionalidades.
+![Screenshot_2025-03-05-01-03-59-315_com alif ide-edit](https://github.com/user-attachments/assets/8e0aa440-8ddd-4180-8cce-023eac53313f)![Screenshot_2025-03-05-01-04-10-090_com alif ide-edit](https://github.com/user-attachments/assets/13a2c3b9-6324-453e-b21f-fbe790aca657)
